@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ProfileCreator</string>
+    <string name="title_activity_profile_color">ProfileColor</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_display">Display Activity</string>
+    <string name="title_activity_color">Select Profile Color</string>
+    <string name="editName">Name</string>
+    <string name="editEmail">Email</string>
+    <string name="departmentText">Department:</string>
+    <string name="sisButton">SIS</string>
+    <string name="cisButton">CIS</string>
+    <string name="bioButton">BIO</string>
+    <string name="green">green</string>
+    <string name="yellow">yellow</string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="orange">orange</string>
+    <string name="grey">grey</string>
+    <string name="edit">Edit</string>
+    <string name="submitButton">Submit</string>
+    <string name="select_profile_color">Select Profile Color</string>
+    <string name="selectedcolor">selectedColor</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="department">Department:</string>
+</resources>
